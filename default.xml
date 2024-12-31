@@ -1109,5 +1109,6 @@
   <include name="remove.xml" />
   <include name="awaken.xml" />
   <include name="lineage.xml" />
+  <include name="pixel.xml" />
 
 </manifest>
